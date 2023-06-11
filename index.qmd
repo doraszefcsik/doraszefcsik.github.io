@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/image.jpg"
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:dora.szefcsik@gmail.com"
+    - icon: github
+      text: Github
+      href: https://github.com/doraszefcsik
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/doraszefcsik/
+
+---
+
+::: {#about-block}
+:::
+
+# Hi, I'm Dóra!
+
+I am a psychologist and data analyst. My research interests cover a wide range of topics from business intelligence to sustainability and neuroscience. On this site, I offer a glimpse into my projects.
+
+Feel free to contact me if you have any questions or would like to discuss potential projects.
+
+
